@@ -1,6 +1,5 @@
 ## Create funtion
-## Time Complexity: O(n)
-## Space Complexity: O(1)
+## Time Complexity: O(1)
 def binarySearch(arr, start, end, x):
     while start <= end:
         mid = start + (end - start)//2
