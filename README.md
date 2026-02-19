@@ -6,3 +6,8 @@ If the some element are present in the array and you have to find the specific e
 
 ## 2 Problem - Binary Search
 If the some element are present in the array which are in sorted manner and you have to find the specific element index number in the array using best approach?
+
+## 3 Problem - TwoSum
+If the some element are present in the array which are in sorted manner and you have given the sum of two element and you have to find both the element index number using best approach?
+-- Brute Force Approach  
+-- Two Pointer Approach (Greedy Algorithm)
