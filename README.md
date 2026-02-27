@@ -20,3 +20,9 @@ If the some element are present in the array which are in sorted manner and you 
 If you have given matrix and also targeted element is given tell me the index of the targeted element.
 -- If the array is not sorted manner
 -- If the array in sorted manner.
+
+## 7 Problem - Bubble Sort
+
+## 8 Problem - Selection Sort
+
+## 9 Problem - Insertion Sort
