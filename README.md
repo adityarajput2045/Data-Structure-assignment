@@ -13,3 +13,10 @@ If the some element are present in the array which are in sorted manner and you 
 -- Two Pointer Approach (Greedy Algorithm)
 
 ## 4 Problem - Best time to buy and sell the stock
+
+## 5 Problem - 
+
+## 6 Problem - Searching in 2D Array (matrix)
+If you have given matrix and also targeted element is given tell me the index of the targeted element.
+-- If the array is not sorted manner
+-- If the array in sorted manner.
