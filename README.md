@@ -26,3 +26,7 @@ If you have given matrix and also targeted element is given tell me the index of
 ## 8 Problem - Selection Sort
 
 ## 9 Problem - Insertion Sort
+
+## Problem 10 - Two array sum
+
+## Problem 11 - Median of two array
