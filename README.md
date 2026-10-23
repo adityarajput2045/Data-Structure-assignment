@@ -40,3 +40,5 @@ If you have given matrix and also targeted element is given tell me the index of
 
 ## Problem 14 - Rotate the array d number of time
 
+## Problem 15 -  Majority Element greater than n/3 times
+
