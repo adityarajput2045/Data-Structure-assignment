@@ -31,7 +31,12 @@ If you have given matrix and also targeted element is given tell me the index of
 
 ## Problem 11 - Median of two array
 
-## Problem with most water
+## Problem 12 - Container with most water
 - Let say you have container with height of array [12,47.85].
 - Create the graph according to element in array
 - Find the area where most water store.
+
+## Problem 13 - Move zeros at last of the array
+
+## Problem 14 - Rotate the array d number of time
+
